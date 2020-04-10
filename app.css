@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+h3{
+    background:rgb(255, 198, 152);
+    text-align: center;
+}
+h3:hover{
+    background: greenyellow;
+}
+h2 {
+    text-align: center;
+}
